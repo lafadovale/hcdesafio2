@@ -1,14 +1,10 @@
 import React from 'react';
-import Home from './views/Home';
-import Auth from './views/Auth';
-
-// import { Container } from './styles';
+import Shop from './views/Shop';
 
 const App: React.FC = () => {
   return (
     <>
-      <Auth/>
-      <Home/>
+      <Shop/>
     </>
   );
 }

@@ -5,7 +5,6 @@
       "photo": "https://http2.mlstatic.com/D_NQ_NP_747547-MLA43761969453_102020-O.jpg",
       "alt": "iPhone XS Max",
       "name": "iPhone XS Max 64GB",
-      "description": "Descrição do produto",
       "price": 5699.00
     },
     {
@@ -13,7 +12,6 @@
       "photo": "https://exotique.com.mt/wp-content/uploads/2020/04/Sennheiser-HD-4.50-BTNC-Over-Ear-Wireless-Headphone-with-Active-Noise-Cancellation-Black.jpg",
       "alt": "Sennheiser 4.50 BTNC",
       "name": "Sennheiser 4.50 BTNC",
-      "description": "Descrição do produto",
       "price": 999.00
     },
     {
@@ -21,8 +19,21 @@
       "photo": "https://www.iclarified.com/images/store/3319/16744/16744-640.jpg",
       "alt": "Marshall Stockwell",
       "name": "Marshall Stockwell",
-      "description": "Descrição do produto",
       "price": 699.00
+    },
+    {
+      "id": 4,
+      "photo": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_IV_Inovacao/A6ECHODOTPTO/A6ECHODOTPTO_PRD_447_2.jpg",
+      "alt": "Echo Dot 3a",
+      "name": "Amazon Echo Dot 3a Geração",
+      "price": 150.00
+    },
+    {
+      "id": 5,
+      "photo": "https://staticmobly.akamaized.net/p/Mobly-Cadeira-Gamer-Legends-Preta-e-Amarela-3901-758274-1-zoom.jpg",
+      "alt": "Cadeira Gamer",
+      "name": "Cadeira Gamer Legends Amarela",
+      "price": 899.00
     }
   ]
 }
